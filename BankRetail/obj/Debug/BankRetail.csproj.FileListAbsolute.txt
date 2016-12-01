@@ -1,0 +1,30 @@
+F:\Projects\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.exe
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.pdb
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.csprojResolveAssemblyReference.cache
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.MainForm.resources
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.NewCredit.resources
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.NewDebetor_form.resources
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.NewPayment.resources
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.Properties.Resources.resources
+F:\Projects\BankRetail\BankRetail\obj\Debug\BankRetail.csproj.GenerateResource.Cache
+F:\Projects\BankRetail\BankRetail\bin\Debug\BankRetail.exe
+F:\Projects\BankRetail\BankRetail\bin\Debug\BankRetail.pdb
+F:\Projects\Full Apps\DataBases\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+F:\Projects\Full Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.exe
+F:\Projects\Full Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.pdb
+F:\Projects\Apps\DataBases\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+F:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.exe
+F:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.pdb
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.exe
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.pdb
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\bin\Debug\BankRetail.exe
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\bin\Debug\BankRetail.pdb
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.csprojResolveAssemblyReference.cache
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.MainForm.resources
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.NewCredit.resources
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.NewDebetor_form.resources
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.NewPayment.resources
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.Properties.Resources.resources
+E:\Projects\Apps\DataBases\BankRetail\BankRetail\obj\Debug\BankRetail.csproj.GenerateResource.Cache
